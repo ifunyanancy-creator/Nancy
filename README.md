@@ -36,7 +36,7 @@ Hi there, this is my GitHub profile # Hi there 👋, I'm Nancy
 <p align="center">
   <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/YOURUSERNAME"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="mailto:ifunyanancy@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
 ---
