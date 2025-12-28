@@ -1,4 +1,4 @@
-# ifunyanancy
+# Nancy
 Hi there, this is my GitHub profile # Hi there 👋, I'm Nancy
 ### 🌱 Beginner Developer | Learning & Building
 
@@ -26,16 +26,16 @@ Hi there, this is my GitHub profile # Hi there 👋, I'm Nancy
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifunyanancy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifunyanancy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nancy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ifunyanancy"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/ifunyanancy"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://linkedin.com/in/Nancy"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/Nancy"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
   <a href="mailto:ifunyanancy@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
